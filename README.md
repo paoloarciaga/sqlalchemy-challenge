@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# SQL Alchemy Challenge
 
 This repo consists of the following deliverables: 
 - Analysis where I explored the climate data 
